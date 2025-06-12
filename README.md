@@ -19,8 +19,6 @@ This project simulates a basic enterprise network environment using **Windows Se
 
 ## 🏗️ Lab Architecture
 
-![Network Diagram](network-diagram.png)
-
 - `DC01` → Domain Controller (`corp.local`)
 - `Client01` → Domain-joined Windows 10 machine
 - Network: Internal network (`192.168.100.x`)
