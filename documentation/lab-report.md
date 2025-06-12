@@ -37,8 +37,6 @@ This lab simulates a small business environment using Windows Server 2022 and Wi
 
 ## 🏗️ Network Architecture
 
-> See ![Network Diagram](../network-diagram.png)
-
 - `DC01` provides DNS, DHCP (optional), and AD services
 - `Client01` communicates with `DC01` to authenticate and receive policies
 
