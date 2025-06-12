@@ -134,7 +134,7 @@ This lab simulates a small business environment using Windows Server 2022 and Wi
 
 ## 🔗 Resources Used
 
-- [Microsoft Docs – AD DS Overview](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/ad-ds-overview)
+- [Microsoft Docs – AD DS Overview](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
 - [Windows Server Evaluation](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
 - [GPResult Syntax](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/gpresult)
 
